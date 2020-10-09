@@ -9,7 +9,7 @@ const initialTodos: Todo[] = [
   complete: false,
 },
 {
-  text: 'Write the damn app',
+  text: 'Write the app',
   complete: true,
 },
 ];
