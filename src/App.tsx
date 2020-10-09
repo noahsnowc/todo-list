@@ -14,8 +14,6 @@ const initialTodos: Todo[] = [
 },
 ];
 
-
-
 function App() {
   const [todos, setTodos] = useState(initialTodos);
   
